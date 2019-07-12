@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-color: #ccc;
+    display: flex
+}
+
+.canvas {
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    background-color:aqua
+}
+
+.game-title {
+    color: #fff
+}
+
+.game-container {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    e
+}
