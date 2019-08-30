@@ -1,0 +1,3 @@
+let parts = [];
+let chapters = [];
+
